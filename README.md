@@ -1,4 +1,4 @@
-# SwiftCommerce 🛒
+# SwiftCommerce
 
 [![Live Demo](https://img.shields.io/badge/Demo-Live%20Website-brightgreen?style=for-the-badge)](https://swift-commerced.vercel.app/)
 [![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge)](https://github.com/babaswift2005/SwiftCommerce)
@@ -7,21 +7,21 @@
 
 ---
 
-## 🔗 Live Links
+## Live Links
 - **Demo Website**: [https://swift-commerced.vercel.app/](https://swift-commerced.vercel.app/)
 - **Source Code**: [https://github.com/babaswift2005/SwiftCommerce](https://github.com/babaswift2005/SwiftCommerce)
 
 ---
 
-## ✨ Features
+## Features
 
-### 🛍️ Client Storefront
+### Client Storefront
 * **Curated Catalog**: Beautifully rendered product grid layout with responsive filters.
 * **Animated Checkout Flow**: Step-by-step interactive visualizer from shopping cart to order confirmation.
 * **Crypto Payments Simulation**: On-chain payment settlement simulator with real-time feedback.
 * **Theme Control**: Elegant dark/light mode toggle with smooth, synchronized CSS variable transitions.
 
-### 📊 Admin Operations Dashboard
+### Admin Operations Dashboard
 * **Real-time Overview**: Live metrics for sales conversion, orders, average order value, and website traffic.
 * **Interactive Charting**: Custom SVG line graphs displaying annual revenue curves.
 * **Inventory Control Panel**: Interactive warehouse management table displaying current stock status (In Stock, Low Stock, Sold Out).
@@ -29,7 +29,7 @@
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 * **Framework**: [TanStack Start](https://tanstack.com/router/v1/docs/start/overview) (React 19 + Vite)
 * **Styling**: [Tailwind CSS v4](https://tailwindcss.com/)
 * **Database & Auth**: [Supabase](https://supabase.com/)
@@ -39,7 +39,7 @@
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Prerequisites
 Make sure you have Node.js and [Bun](https://bun.sh/) installed.
@@ -69,7 +69,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ---
 
-## 🛠️ How to Extend & Make It Even Better
+## How to Extend and Make It Even Better
 
 This repository serves as a robust base template. Here is how you can take it to the next level:
 1. **Integrate Real Payments**: Replace the crypto mock payments button with [Stripe Checkout](https://stripe.com/) or [Coinbase Commerce SDK](https://commerce.coinbase.com/) for real transaction settlements.
