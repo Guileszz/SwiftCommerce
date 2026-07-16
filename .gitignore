@@ -33,4 +33,5 @@ dist-ssr
 
 # Lovable editor metadata
 .lovable/
+AGENTS.md
 
